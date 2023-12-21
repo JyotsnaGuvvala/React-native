@@ -1,0 +1,8 @@
+.safeAreaViewContainer {
+  background-image: linear-gradient(
+    to bottom right,
+    #ff7e5f,
+    #feb47b
+  ); /* Replace these colors with your gradient */
+  flex: 1;
+}
